@@ -1,0 +1,6 @@
+framework module Pods_SKU____ {
+  umbrella header "Pods-SKU解决方案-umbrella.h"
+
+  export *
+  module * { export * }
+}
